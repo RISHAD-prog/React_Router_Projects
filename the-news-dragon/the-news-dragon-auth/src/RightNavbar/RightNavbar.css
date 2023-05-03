@@ -1,0 +1,10 @@
+.more_info {
+    color: #f0f8ff;
+    position: relative;
+    bottom: 30rem;
+}
+
+.more_info button {
+    width: 150px;
+    height: 70px;
+}

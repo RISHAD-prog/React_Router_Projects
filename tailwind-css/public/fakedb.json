@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Smart Watch",
+        "price": 199.99,
+        "features": {
+            "color": "Black",
+            "display": "1.4-inch OLED",
+            "connectivity": "Bluetooth 5.0",
+            "battery": "300mAh"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Gaming Laptop",
+        "price": 599.99,
+        "features": {
+            "color": "Silver",
+            "display": "15.6-inch Full HD IPS",
+            "processor": "Intel Core i7",
+            "graphics": "NVIDIA GeForce RTX 3060",
+            "memory": "16GB DDR4",
+            "storage": "512GB NVMe SSD"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Wireless Earbuds",
+        "price": 69.99,
+        "features": {
+            "color": "White",
+            "connectivity": "Bluetooth 5.2",
+            "battery": "4 hours on a single charge",
+            "charging": "Magnetic charging case",
+            "noiseCancelling": "Active Noise Cancellation"
+        }
+    }
+]

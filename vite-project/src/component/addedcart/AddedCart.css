@@ -1,0 +1,26 @@
+.cart {
+    background: rgba(12, 14, 22, 0.441);
+    border-radius: 8px;
+    padding-left: 2rem;
+    text-align: center;
+    position: sticky;
+    top: 0;
+}
+
+.btn-clear-cart {
+    width: 90%;
+    font-size: 19px;
+    margin: 10px auto;
+    background: #FF3030;
+    opacity: 0.8;
+    border-radius: 4px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+
+.clear-icon {
+    height: 31px;
+}
